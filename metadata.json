@@ -1,0 +1,5 @@
+{
+  "name": "Interviewer AI",
+  "description": "A realistic AI-powered interview simulator that prepares you for your dream job using advanced Gemini models.",
+  "requestFramePermissions": ["microphone"]
+}
